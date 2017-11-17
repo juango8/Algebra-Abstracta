@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/practica_1.dir/main.cpp.o  -o practica_1 
